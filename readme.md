@@ -1,3 +1,5 @@
+Super simple brainfuck interpreter i made to learn how to use i/o and pointers
+
 **>	Move the data pointer to the right**
 
 **<	Move the data pointer to the left**
